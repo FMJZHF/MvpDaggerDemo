@@ -1,7 +1,7 @@
-package com.zhf.mvpdaggerdemo.base.p;
+package com.zhf.base.presenter;
 
-import com.zhf.mvpdaggerdemo.base.m.BaseModel;
-import com.zhf.mvpdaggerdemo.base.v.BaseView;
+import com.zhf.base.model.BaseModel;
+import com.zhf.base.view.BaseView;
 
 /**
  * Presenter 层主要是连接 View 层和 Model 层的桥梁，负责把 View 层需要数据从 Model 层拿到，返回给 View 层；

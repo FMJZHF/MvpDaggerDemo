@@ -1,8 +1,9 @@
-package com.zhf.mvpdaggerdemo.base.v;
+package com.zhf.base.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.zhf.mvpdaggerdemo.base.p.BasePresenter;
+
+import com.zhf.base.presenter.BasePresenter;
 
 import javax.inject.Inject;
 

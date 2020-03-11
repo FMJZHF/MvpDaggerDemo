@@ -1,8 +1,8 @@
 package com.zhf.mvpdaggerdemo.test;
 
+import com.zhf.base.model.BaseModel;
+import com.zhf.base.view.BaseView;
 import com.zhf.mvpdaggerdemo.UserInfoModel;
-import com.zhf.mvpdaggerdemo.base.m.BaseModel;
-import com.zhf.mvpdaggerdemo.base.v.BaseView;
 
 /**
  * 创建契约来规定 Model 和 View

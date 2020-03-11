@@ -5,7 +5,8 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.zhf.mvpdaggerdemo.base.v.BaseMvpActivity;
+import com.zhf.base.view.BaseMvpActivity;
+
 
 public class MainActivity extends BaseMvpActivity {
 

@@ -6,10 +6,9 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
-import android.widget.EditText;
 import android.widget.Toast;
 
-import com.zhf.mvpdaggerdemo.base.v.BaseMvpActivity;
+import com.zhf.base.view.BaseMvpActivity;
 import com.zhf.mvpdaggerdemo.test.DaggerLogin1Component;
 import com.zhf.mvpdaggerdemo.test.Login1Contract;
 import com.zhf.mvpdaggerdemo.test.Login1Module;

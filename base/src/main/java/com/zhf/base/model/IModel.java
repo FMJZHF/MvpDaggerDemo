@@ -1,4 +1,4 @@
-package com.zhf.mvpdaggerdemo.base.m;
+package com.zhf.base.model;
 
 /**
  * Model 层主要的职责有：

@@ -1,4 +1,4 @@
-package com.zhf.mvpdaggerdemo.base.v;
+package com.zhf.base.view;
 
 public interface BaseView {
 }

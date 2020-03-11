@@ -2,8 +2,8 @@ package com.zhf.mvpdaggerdemo.test;
 
 import android.os.Handler;
 
+import com.zhf.base.presenter.BasePresenter;
 import com.zhf.mvpdaggerdemo.UserInfoModel;
-import com.zhf.mvpdaggerdemo.base.p.BasePresenter;
 
 import javax.inject.Inject;
 
@@ -53,7 +53,7 @@ public class Login1Presenter extends BasePresenter<Login1Contract.ILoginModel, L
     @Override
     public void onDestroy() {
         super.onDestroy();
-        // TODO: 2018/1/25 销毁持有的引用
+        // TODO: 销毁持有的引用
     }
 
     /**
